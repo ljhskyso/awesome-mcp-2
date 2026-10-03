@@ -262,6 +262,7 @@ Servers that enable workflow automation, browser automation, and task orchestrat
 
 - [n8n](https://n8n.io/integrations/mcp/) 💰 🏠/☁️ - Workflow automation platform
 - [Zapier](https://zapier.com/mcp) 💰 ☁️ - Connect 5000+ apps and automate workflows
+- [Aident Loadout](https://aident.ai) 💰 ☁️ - Connect AI agents to 1,000+ apps and 400+ Skills via one remote MCP server.
 - [Make.com](https://make.com) 💰 ☁️ - Visual automation platform
 - [Apple Shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 🆓 🏠 - macOS automation integration
 
